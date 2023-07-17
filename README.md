@@ -22,3 +22,21 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Try
+
+Join my discord team
+
+https://discord.com/channels/759414764408930324/759414764408930326
+
+Commands && message:
+
+* /lenh
+
+* /ping
+
+* Hi
+
+* Hello
+
+* Orther commands and message 
