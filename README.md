@@ -24,4 +24,4 @@ Commands && message:
 
 ** play music
 
-** play youtube video and music link music links on several platforms with bot
+** play youtube video and music links on several platforms with bot
