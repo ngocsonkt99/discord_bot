@@ -72,3 +72,10 @@ group :test do
 end
 
 gem "discordrb", "~> 3.5"
+
+gem "youtube-dl.rb", "~> 0.3.1"
+
+gem 'streamio-ffmpeg'
+
+# gem 'opus-ruby', '~> 1.0', '>= 1.0.1'
+# gem 'dca'

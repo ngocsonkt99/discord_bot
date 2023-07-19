@@ -30,7 +30,7 @@ module Ping
       event.respond 'Bot đã nhận được tin nhắn từ bạn!'
     end
   end
-end
+  end
 
 	bot.run(true)
 end
